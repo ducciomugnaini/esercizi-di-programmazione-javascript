@@ -19,5 +19,5 @@
         array R = [152, 61]
         array C = [2, 70, 140]
 
-  http://www.imparareaprogrammare.it
+   
 */

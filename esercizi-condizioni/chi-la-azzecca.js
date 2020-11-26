@@ -17,5 +17,5 @@
     (Math.random() * (100-1) + 1)
   Ricordati che il valore dovrà essere intero quindi dovrai arrontondarlo usando Math.floor()
 
-  http://www.imparareaprogrammare.it
+   
 */

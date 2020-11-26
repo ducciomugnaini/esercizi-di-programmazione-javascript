@@ -12,5 +12,5 @@
   - nel caso il giorno non sia compreso nel range, la funzione dovrà restituire un messaggio d'errore simile a questo: 'Peccato, non posso indovinare il giorno.'
 
 
-  http://www.imparareaprogrammare.it
+   
 */

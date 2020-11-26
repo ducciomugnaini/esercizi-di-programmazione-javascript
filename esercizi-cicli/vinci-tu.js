@@ -12,5 +12,5 @@
   Il numero casuale generato, deve essere convertito nel tuo intervallo (min = 1, max = 6).
   Se non ti ricordi come si fa puoi rivedere l'esercizio sulle condizioni "Chi l'azzecca?".
 
-  http://www.imparareaprogrammare.it
+   
 */

@@ -7,5 +7,5 @@
   Consigli:
   Puoi usare un array come base per salvare le automobili.
 
-  http://www.imparareaprogrammare.it
+   
 */

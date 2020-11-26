@@ -20,5 +20,5 @@
   Variante:
   Scrivere una versione che anziché i giorni della settimana, visualizzi i nomi dei mesi.
 
-  http://www.imparareaprogrammare.it
+   
 */

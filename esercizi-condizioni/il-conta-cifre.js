@@ -9,5 +9,5 @@
     Input: numero = 245
     Output: 3 cifre
 
-  http://www.imparareaprogrammare.it
+   
 */

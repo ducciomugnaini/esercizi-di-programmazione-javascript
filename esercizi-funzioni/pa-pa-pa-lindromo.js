@@ -12,5 +12,5 @@
   Puoi eliminare spazi e segni di punteggiatura usando le espressioni regolari o il metodo del tipo stringa chiamato replace,
   in questo modo: str.replace(/\W/g, "").
 
-  http://www.imparareaprogrammare.it
+   
 */

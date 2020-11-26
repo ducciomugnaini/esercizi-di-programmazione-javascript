@@ -13,5 +13,5 @@
   Consigli:
   Per la variante ricordati l'uso degli indici del ciclo ;)
 
-  http://www.imparareaprogrammare.it
+   
 */

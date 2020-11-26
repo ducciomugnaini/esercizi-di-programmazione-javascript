@@ -18,5 +18,5 @@
   Consigli:
   Per non ripetere il codice, nella seconda funzione puoi richiamare la prima funzione ;)
 
-  http://www.imparareaprogrammare.it
+   
 */

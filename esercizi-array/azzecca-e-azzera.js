@@ -10,5 +10,5 @@
   Per richiedere un numero all'utente puoi usare il comando prompt(), se vuoi saperne di più puoi controllare nella
   documentazione: https://developer.mozilla.org/it/docs/Web/API/Window/prompt
 
-  http://www.imparareaprogrammare.it
+   
 */

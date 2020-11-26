@@ -17,5 +17,5 @@
   Consiglio:
   Per andare a capo usa '\n'.
 
-  http://www.imparareaprogrammare.it
+   
 */

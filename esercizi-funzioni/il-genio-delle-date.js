@@ -12,5 +12,5 @@
   Puoi definire un array con i giorni di ogni mese e ciclarlo.
 
           
-  http://www.imparareaprogrammare.it
+   
 */

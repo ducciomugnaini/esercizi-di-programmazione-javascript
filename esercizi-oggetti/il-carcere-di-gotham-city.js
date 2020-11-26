@@ -29,5 +29,5 @@
     - il numero di detenuti evasi,
     - il numero di detenuti deceduti all’interno della struttura.
 
-  http://www.imparareaprogrammare.it
+   
 */

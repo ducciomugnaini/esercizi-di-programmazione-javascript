@@ -10,5 +10,5 @@
   Variante:
   Stampa anche quanti sono i valori monori della media e quanti quelli maggiori.
 
-  http://www.imparareaprogrammare.it
+   
 */

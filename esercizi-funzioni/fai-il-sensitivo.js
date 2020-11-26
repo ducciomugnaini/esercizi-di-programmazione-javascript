@@ -13,5 +13,5 @@
   Se non ricordi come generare un numero random e come convertirlo nel tuo intervallo riguarda l'esercizio sulle condizioni "Chi l'azzecca?".
   Se non ricordi come richiedere all'utente un valore in input, rivedi l'esercizio sugli array "Azzecca e azzera"
 
-  http://www.imparareaprogrammare.it
+   
 */

@@ -6,5 +6,5 @@
   Consigli:
   Se non ricordi come generare un numero random e come convertirlo nel tuo intervallo riguarda l'esercizio sulle condizioni "Chi l'azzecca?".
 
-  http://www.imparareaprogrammare.it
+   
 */

@@ -2,6 +2,34 @@
 Qui troverai una serie di esercizi di informatica divisi per argomento e difficoltà (facili, medi e difficili).
 Goditi gli esercizi e... buona programmazione!
 
+Per poter eseguire il codice dell'esercizio scelto con [Visual Studio Code](https://code.visualstudio.com/download):
+* installare [Node.js](https://nodejs.org/it/)
+* editare il file di configurazione `.vscode/launch.json` impostando il path del file che si desidera eseguire. Di seguito è riportato il file di configurazione per poter eseguire il codice contenuto nel file `esercizi-stringhe-numeri\somma-e-media.js`
+~~~
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\esercizi-stringhe-numeri\\somma-e-media.js"
+        }
+    ]
+}
+~~~
+
+## HotKeys Visual Studio Code
+
+Formattazione codice : Alt + Shift + F
+
+
 ## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
   * Somma e media

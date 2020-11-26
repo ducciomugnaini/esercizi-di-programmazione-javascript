@@ -15,5 +15,5 @@
         [2, 4, 6],
       ]
 
-  http://www.imparareaprogrammare.it
+   
 */

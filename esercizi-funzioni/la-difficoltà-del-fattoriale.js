@@ -10,5 +10,5 @@
   Il fattoriale è il prodotto dei numeri interi da 1 a n.
   Esempio: n = 5, fattoriale = 5*4*3*2*1 = 120
 
-  http://www.imparareaprogrammare.it
+   
 */

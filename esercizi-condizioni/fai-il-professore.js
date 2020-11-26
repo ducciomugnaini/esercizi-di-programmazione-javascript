@@ -16,5 +16,5 @@
   Variante
   Realizzare una versione con il costrutto Switch-Case. In questo caso gestire anche il caso in cui il voto inserito non sia valido.
 
-  http://www.imparareaprogrammare.it
+   
 */
