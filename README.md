@@ -5,7 +5,8 @@ Goditi gli esercizi e... buona programmazione!
 Per poter eseguire il codice dell'esercizio scelto con [Visual Studio Code](https://code.visualstudio.com/download):
 * installare [Node.js](https://nodejs.org/it/)
 * editare il file di configurazione `.vscode/launch.json` impostando il path del file che si desidera eseguire. Di seguito è riportato il file di configurazione per poter eseguire il codice contenuto nel file `esercizi-stringhe-numeri\somma-e-media.js`
-~~~
+
+```json
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -23,7 +24,7 @@ Per poter eseguire il codice dell'esercizio scelto con [Visual Studio Code](http
         }
     ]
 }
-~~~
+```
 
 ## HotKeys Visual Studio Code
 
