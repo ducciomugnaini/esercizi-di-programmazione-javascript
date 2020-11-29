@@ -17,4 +17,4 @@ var e = 1;
 var result = a + b + c + d + e;
 
 // Output
-console.log('il risultato è: ' + result);
+console.log('il risultato è: ' + result);  
