@@ -1,4 +1,4 @@
-# Esercizi di programmazione gratuiti
+# Esercizi di programmazione
 Qui troverai una serie di esercizi di informatica divisi per argomento e difficoltà (facili, medi e difficili).
 Goditi gli esercizi e... buona programmazione!
 
