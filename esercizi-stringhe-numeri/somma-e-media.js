@@ -16,6 +16,8 @@ var d = 4;
 var e = 5;
 
 var result = a + b + c + d + e;
+var media = result/5
 
 // Output
 console.log('la somma è: ' + result);
+console.log('la media è:' + media);
