@@ -12,3 +12,5 @@
 
   http://www.imparareaprogrammare.it
 */
+
+console.log('tanti numeri')
