@@ -19,3 +19,36 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var primoArray = []
+
+for (let i = 0; i < 10; i++) {
+   primoArray.push(Math.ceil(Math.random() * 10));
+}
+
+var secondoArray = []
+
+for (let i = 0; i < 10; i++) {
+  secondoArray.push(Math.ceil(Math.random() * 10));
+}
+
+console.log(''+primoArray)
+console.log(''+secondoArray)
+
+
+var sumArray= []
+var sottrArray= []
+var moltiplicazArray= []
+var divisioneArray= []
+
+for (let i = 0; i < 10; i++) {
+  sumArray.push(primoArray[i] + secondoArray[i]);
+  sottrArray.push(primoArray[i] - secondoArray[i])
+  moltiplicazArray.push(primoArray[i] * secondoArray[i])
+  divisioneArray.push(primoArray[i] / secondoArray[i])
+}
+
+console.log(''+sumArray)
+console.log(''+sottrArray)
+console.log(''+moltiplicazArray)
+console.log(''+divisioneArray)

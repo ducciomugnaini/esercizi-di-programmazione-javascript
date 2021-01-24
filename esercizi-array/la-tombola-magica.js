@@ -19,3 +19,59 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+
+var tombolArray = []
+var ginaArrayTombola =[2,4,7,56]
+
+for (var i = 0; i < 10; i++) {
+  var numEsistente= true
+  while (numEsistente) {
+    newNumGenerate= Math.floor((Math.random() * 20) + 1)
+    numEsistente = tombolArray.includes(newNumGenerate)
+  }
+  tombolArray.push(newNumGenerate)
+}
+
+console.log(''+tombolArray)
+
+var res = 0
+
+for (let j = 0; j < 4; j++) {
+ 
+  for (var i = 0; i < 10; i++) {
+    if (tombolArray[i]==ginaArrayTombola[j]) {
+      res = res+1
+      break;
+   }; 
+ };
+}
+
+
+switch(res) {
+  case 2:
+    text='ambo'
+    break;
+  case 3:
+    text='terna'
+    break;
+  case 4:
+    text='quaterna'
+    break;
+  case 5:
+    text='cinquina'
+  break;
+  case 10:
+    text='tombola'
+  break;
+}
+
+console.log(text)
+
+if (text) {
+  console.log("Hai fatto "+ text)
+}
+if (res=0) {
+  console.log("Mi dispiace, hai perso!")
+}

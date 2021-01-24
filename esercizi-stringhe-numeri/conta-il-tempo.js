@@ -12,3 +12,17 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var numSeconds= 12560
+
+var ore = Math.floor(numSeconds/3600)
+var min = Math.floor((numSeconds%3600)/60)
+var seconds= numSeconds - ore*3600 - min*60
+var sec= numSeconds%60
+
+var time = ore + " ore " + min + " min "+ seconds+ " seconds"
+
+console.log(ore)
+console.log(min)
+console.log(seconds)
+console.log(time)

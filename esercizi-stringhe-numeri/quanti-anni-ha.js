@@ -11,3 +11,12 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var currentYear= 2021
+var bornyear = 1987
+
+var age= currentYear - bornyear
+var hundredyear = 100 - age
+
+console.log(age)
+console.log(hundredyear)

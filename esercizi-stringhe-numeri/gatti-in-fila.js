@@ -17,3 +17,13 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var catNumber= 44
+var lineCatNumber = 6
+
+var lineNumber = Math.ceil(catNumber/lineCatNumber)
+var missingCat = (lineCatNumber*lineNumber) - catNumber
+var mix = lineCatNumber- catNumber % lineCatNumber
+
+console.log(lineNumber)
+console.log(mix)
